@@ -11,14 +11,14 @@
    - After forking, each student should clone their forked repository to their local machine using Git.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/denyzabra/Exercise1
    ```
 
 3. **Create a New Branch:**
    - In their local repository, students should create a new branch with a descriptive name for their contribution.
 
    ```bash
-   git checkout -b feature/add-content
+   git checkout -b feature/slider
    ```
 
 4. **Add Content:**
@@ -29,14 +29,14 @@
 
    ```bash
    git add index.html
-   git commit -m "Add content about [topic]"
+   git commit -m "Added slider below the navigationn bar"
    ```
 
 6. **Push to GitHub:**
    - Push the changes to their forked repository on GitHub.
 
    ```bash
-   git push origin feature/add-content
+   git push origin feature/added slider below the navigation 
    ```
 
 7. **Create a Pull Request (PR):**
@@ -48,12 +48,4 @@
 9. **Feedback and Collaboration:**
    - Encourage students to review and provide feedback on each other's contributions by commenting on the Pull Requests.
 
-**Grading Criteria:**
 
-- Completeness and correctness of the added content.
-- Proper use of Git and GitHub for forking, branching, and creating Pull Requests.
-- Collaboration and constructive feedback on peers' contributions.
-
-**Deadline:** Set a specific deadline for students to complete this assignment and submit their Pull Requests.
-
-This assignment will not only help students learn about Git and GitHub but also allow them to collaborate on a web project, enhancing their HTML and version control skills.
